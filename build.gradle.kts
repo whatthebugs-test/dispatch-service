@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.kestrelfreight"
-version = "1.18.0"
+version = "1.19.0"
 
 java {
     toolchain { languageVersion = JavaLanguageVersion.of(21) }
